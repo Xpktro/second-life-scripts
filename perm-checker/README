@@ -1,0 +1,1 @@
+This script provides a function to check if the next-user permissions of the script are set to NO-COPY/NO-TRANS or NO-MOD/NO-TRANS. If they aren't present, the script will delete itself.
