@@ -1,0 +1,1 @@
+Based in the new llGetAgentList LSL Function (https://jira.secondlife.com/browse/SVC-6427) this is a little gadget capable to work as an (almost)zero-lag sim-wide radar. Currently, llGetAgentList is only available on the 3 RC Simulator Channels (Magnum, BlueSteel, LeTigre) and it will be hopely deployed for the rest of the grid in a couple of days.
